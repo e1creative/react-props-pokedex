@@ -1,0 +1,11 @@
+.Pokedex {
+    max-width: 60vw;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.Pokedex-title {
+    margin-bottom: 2rem;
+}

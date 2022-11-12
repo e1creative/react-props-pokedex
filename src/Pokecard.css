@@ -1,0 +1,21 @@
+.Pokecard {
+    background-color: lightgray;
+    color: black;
+    max-width: 200px;
+    padding: 1.5rem 3rem;
+    border-radius: 1rem;
+}
+.Pokecard-title {
+    color: blue;
+    font-weight: bold;
+    margin: 0;
+}
+.Pokecard-type {
+    font-size: .85rem;
+    margin: 0;
+}
+
+.Pokecard-experience {
+    font-size: .85rem;
+    margin: 0;
+}
